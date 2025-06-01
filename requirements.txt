@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-groq>=0.1.0
+langchain-huggingface>=0.0.1
+faiss-cpu
+sentence-transformers
+huggingface-hub
+groq
+pandas
+PyPDF2
+python-docx
+openpyxl
